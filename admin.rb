@@ -4,3 +4,4 @@ def pickle(str)
 end
 
 pickle('Elia')
+pickle('Admin')
